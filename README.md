@@ -15,7 +15,7 @@ JavaScript | Node | React | HTML | CSS | AWS
 ## Talks
 Ok, there's only one... but it was a fun one. Check out my speaker page on [CascadiaJS](https://2020.cascadiajs.com/speakers/scott-ammon) for my talk on connecting MIDI instruments to the browser.
 
-### Contact Me
+## Contact Me
 If suits and business cards are your jam, find me here:
 [LinkedIn](https://www.linkedin.com/in/scottammon)
 
