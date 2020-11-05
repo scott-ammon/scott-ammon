@@ -16,7 +16,7 @@ JavaScript | Node | React | HTML | CSS | AWS
 Musical Creativity in the Browser - CascadiaJS 2020. Check out [CascadiaJS](https://2020.cascadiajs.com/speakers/scott-ammon) for my talk on connecting MIDI keyboards and drums to the web.
 
 ## Contact Me
-[LinkedIn](https://www.linkedin.com/in/scottammon)
-[AngelList](https://angel.co/u/scott-ammon)
+* [LinkedIn](https://www.linkedin.com/in/scottammon)
+* [AngelList](https://angel.co/u/scott-ammon)
 
 
