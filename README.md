@@ -6,18 +6,17 @@
 
 **For fun** you can find me drumming, recording music with [Gumshen](https://open.spotify.com/artist/1ynnDWaJZ6KwwQDdjiEYI6), and exploring the outdoors here in Seattle, WA.
 
-## Tech Stack
+## Tech Stacks
 
 While working as consultants requires us to dip our feet into several different languages and frameworks with each new project, I focus on:
 
 JavaScript | Node | React | HTML | CSS | AWS
 
 ## Talks
-Ok, there's only one... but it was a fun one. Check out my speaker page on [CascadiaJS](https://2020.cascadiajs.com/speakers/scott-ammon) for my talk on connecting MIDI instruments to the browser.
+Musical Creativity in the Browser - CascadiaJS 2020. Check out [CascadiaJS](https://2020.cascadiajs.com/speakers/scott-ammon) for my talk on connecting MIDI keyboards and drums to the web.
 
 ## Contact Me
-If suits and business cards are your jam, find me here:
 [LinkedIn](https://www.linkedin.com/in/scottammon)
-
+[AngelList](https://angel.co/u/scott-ammon)
 
 
