@@ -1,6 +1,5 @@
 ## 👋 Hi! I'm Scott.
 ![](https://img.shields.io/badge/status-drumming-green)
-![](https://visitor-badge.glitch.me/badge?page_id=scott-ammon.scott-ammon)
 
 **For Work:**  
 I'm a software architect at [Slalom Build](https://www.slalombuild.com/) building software for a variety of enterprise clients using modern web technologies, and serverless backend architectures.
