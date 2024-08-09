@@ -1,16 +1,17 @@
 ## 👋 Hi! I'm Scott.
-![](https://img.shields.io/badge/status-drumming-green)
 
-**For Work:**  
-I'm a software architect at [Slalom Build](https://www.slalombuild.com/) building software for a variety of enterprise clients using modern web technologies, and serverless backend architectures.
+**For Work:**
+I'm a software engineer currently contracting for Microsoft, working on the UI and associated APIs for [Chaos Studio](https://azure.microsoft.com/en-us/products/chaos-studio_), a service in Azure allowing customers to test and improve the resiliency of their applications by injecting faults into their cloud infrastructure.
 
-**For Fun:**  
-You can find me drumming and exploring the outdoors here in Seattle, WA.
+**For Fun:**
+You can usually find me drumming or gravel biking around Seattle, WA.
 
 ## Tech
-My focus is front-end development, and my most common frameworks/languages/libraries include:
+As a result of my experience in consulting for a variety of enterprise clients, I would describe myself as a cloud-focused full stack engineer, and my most common frameworks/languages/libraries include:
 
-JavaScript | TypeScript | React | HTML | CSS | Redux | RxJs
+JavaScript | TypeScript | React | Redux | RxJs
+
+I have experience in both AWS and Azure, having built many microservices and APIs for a variety of use cases.
 
 ## Talks
 Musical Creativity in the Browser - CascadiaJS 2020. Check out [CascadiaJS](https://2020.cascadiajs.com/speakers/scott-ammon) for my talk on connecting MIDI keyboards and drums to the web.
