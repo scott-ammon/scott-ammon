@@ -7,9 +7,9 @@ I'm a software engineer currently contracting for Microsoft, working on the UI a
 You can usually find me drumming or gravel biking around Seattle, WA.
 
 ## Tech
-As a result of my experience in consulting for a variety of enterprise clients, I would describe myself as a cloud-focused full stack engineer, and my most common frameworks/languages/libraries include:
+As a result of my experience in consulting for a variety of enterprise clients, I would describe myself as a cloud-focused full stack engineer, and my most commonly used frameworks/languages/libraries include:
 
-JavaScript | TypeScript | React | Redux | RxJs
+JavaScript | TypeScript | Node | React | Redux | RxJs | .NET
 
 I have experience in both AWS and Azure, having built many microservices and APIs for a variety of use cases.
 
